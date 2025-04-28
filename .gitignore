@@ -1,0 +1,9 @@
+train.record
+static/
+.idea/
+.venv/
+**pycache**
+
+bkp.zip
+bkp/
+annotations.csv
