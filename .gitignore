@@ -7,3 +7,5 @@ static/
 bkp.zip
 bkp/
 annotations.csv
+
+.ipynb_checkpoints
